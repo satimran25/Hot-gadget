@@ -1,1 +1,40 @@
-css
+.container{
+    margin-bottom: 100px;
+}
+.height{
+    height:50px;
+    width:150px;
+}
+ 
+ .fc{
+     color:rgb(51, 50, 50);
+     font-family: 'Poppins', sans-serif;
+ }
+ .carousel-item{
+     padding: 20px 40px;
+ }
+ .fs{
+     font-size: 16px;
+ }
+ .buy-now-button{
+     background-image: linear-gradient(rgb(34, 32, 32),black);
+     color: white;
+     padding: 10px 12px;
+     border-radius: 8px;
+
+ }
+ .carousel-indicators li {
+    background-color: #CECECE;
+    width: 16px;
+    height: 5px;
+    border-radius: 5px;
+    }
+    .carousel-indicators li.active {
+    width: 20px;
+    height: 1px;
+    background: linear-gradient(#FF9C35 , #FFD019 );
+    border-radius: 5px;
+    }
+    .hd1{
+        font-family: 'PT Sans';
+    }
